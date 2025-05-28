@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushil Verma</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer+%26+Programmer;Freshman+MCA+Student;MERN+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer+%26+Programmer;Freshman+MCA+Student;MERN+Stack+Enthusiast" alt="Typing SVG" />
 </h3>
 
 ---
