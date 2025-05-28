@@ -8,6 +8,8 @@
 🌟 I'm a highly motivated and creative full-stack developer with a strong foundation in the MERN stack and a deep love for solving real-world problems with code.  
 🚀 Currently pursuing my MCA and building exciting web experiences that merge utility with seamless UI.
 
+---
+
 ### 🚧 Current Highlights
 
 - 🧸 Building **[ToyNest](https://toynest-web-app.vercel.app/)** – a toy renting & purchasing platform that simplifies parenting and encourages sustainable toy usage.
@@ -27,7 +29,26 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge&logo=bugzilla&logoColor=white" />
 </p>
+
+---
+
+### 🏅 Certificates
+
+- 📜 [Java Certificate – Scaler](https://moonshot.scaler.com/s/li/7a7ZMqW22C)  
+- 📜 [Blockchain & its Application – NPTEL](https://internalapp.nptel.ac.in/NOC/NOC25/SEM1/Ecertificates/106/noc25-cs08/Course/NPTEL25CS08S55230099104215607.pdf)
+
+---
+
+### 🎯 Goals
+
+> I want to be professional and perfect in every task I am assigned to,  
+> and apply my knowledge and project experience to grow the organization I will work with.
 
 ---
 
@@ -48,6 +69,14 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushil-verma-679444297)
 - 📧 Email: sushilverma40408@gmail.com
 - 🌐 [Portfolio Website](https://sushilvermaportfolio.vercel.app/)
+
+---
+
+### 🐍 3D Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Sushils-Coding/Sushils-Coding/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
