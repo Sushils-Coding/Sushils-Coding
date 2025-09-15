@@ -12,9 +12,9 @@
 
 ### 🚧 Current Highlights
 
-- 🧸 Building **[ToyNest](https://toynest-web-app.vercel.app/)** – a toy renting & purchasing platform that simplifies parenting and encourages sustainable toy usage.
+- 🧸 Building **[ToyNest](https://toynest.vercel.app/)** – a toy renting & purchasing platform that simplifies parenting and encourages sustainable toy usage.
 - 🧠 Created **[Course-Flow AI](https://course-flow-ai.anirudtate.com/)** – AI-powered course generator for personalized, skill-based learning.
-- 🧑‍💻 Designed my own animated portfolio – [Check it out here](https://sushilvermaportfolio.vercel.app/)
+- 🧑‍💻 Designed my own animated portfolio – [Check it out here](sushil-portfolio-seven.vercel.app)
 
 ---
 
@@ -68,7 +68,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushil-verma-679444297)
 - 📧 Email: sushilverma40408@gmail.com
-- 🌐 [Portfolio Website](https://sushilvermaportfolio.vercel.app/)
+- 🌐 [Portfolio Website](sushil-portfolio-seven.vercel.app)
 
 ---
 
