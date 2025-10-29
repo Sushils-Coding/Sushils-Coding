@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushil Verma</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer+%26+Programmer;Freshman+MCA+Student;MERN+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MCA+Student;Crafting+Scalable+Web+Solutions;MERN+Stack+%7C+Java+%7C+Next.js;Turning+Ideas+Into+Seamless+Experiences" alt="Typing SVG" />
 </h3>
 
 ---
@@ -14,7 +14,7 @@
 
 - 🧸 Building **[ToyNest](https://toynest.vercel.app/)** – a toy renting & purchasing platform that simplifies parenting and encourages sustainable toy usage.
 - 🧠 Created **[Course-Flow AI](https://course-flow-ai.anirudtate.com/)** – AI-powered course generator for personalized, skill-based learning.
-- 🧑‍💻 Designed my own animated portfolio – [Check it out here](sushil-portfolio-seven.vercel.app)
+- 🧑‍💻 Designed my own animated portfolio – [Check it out here](https://sushil-portfolio-seven.vercel.app/)
 
 ---
 
@@ -68,7 +68,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushil-verma-679444297)
 - 📧 Email: sushilverma40408@gmail.com
-- 🌐 [Portfolio Website](sushil-portfolio-seven.vercel.app)
+- 🌐 [Portfolio Website](https://sushil-portfolio-seven.vercel.app/)
 
 ---
 
