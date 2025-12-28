@@ -23,14 +23,14 @@ I'm a **Full-Stack Developer** with professional industry experience, currently 
 ## 💼 Professional Experience
 
 ### **Full-Stack Developer** – *Celebrare*
-*September 2023 - Present*
+*September 2025 - Present*
 - Developed production-grade web applications serving real users
 - Built and optimized React-based UI components with performance focus
 - Integrated RESTful APIs and handled complex edge cases
 - Collaborated with cross-functional teams to ship features efficiently
 
 ### **Web Developer** – *SankalpSphere*
-*March 2023 - August 2023*
+*March 2025 - August 2025*
 - Developed responsive web pages and reusable UI components
 - Improved application performance and resolved UI/UX inconsistencies
 - Implemented features under tight deadlines in agile environment
@@ -79,6 +79,15 @@ I'm a **Full-Stack Developer** with professional industry experience, currently 
 |--------------|--------|------------|
 | Java Programming | Scaler | [View Certificate](https://moonshot.scaler.com/s/li/7a7ZMqW22C) |
 | Blockchain & Its Applications | NPTEL | [View Certificate](https://internalapp.nptel.ac.in/NOC/NOC25/SEM1/Ecertificates/106/noc25-cs08/Course/NPTEL25CS08S55230099104215607.pdf) |
+
+---
+
+## Contribution
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Sushils-Coding/Sushils-Coding/output/assets/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Sushils-Coding/Sushils-Coding/output/assets/github-snake-dark.svg#gh-dark-mode-only)
+
+*(Animation updates daily)*
 
 ---
 
