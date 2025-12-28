@@ -14,23 +14,31 @@ jobs:
       contents: write
       
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout repository
+      # Step 1: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
       
-      # Step 2: Generate the snake animation
-      - name: Generate GitHub Contribution Snake
+      # Step 2: Generate snake with CORRECT parameters
+      - name: Generate Snake
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
       
-      # Step 3: Deploy to output branch
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      # Step 3: Show what was generated
+      - name: List generated files
+        run: |
+          echo "Generated files:"
+          ls -la dist/
+      
+      # Step 4: Deploy to output branch
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          folder: dist
-          clean: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation - $(date)"
