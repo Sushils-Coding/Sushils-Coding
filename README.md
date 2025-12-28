@@ -96,11 +96,11 @@ I'm a **Full-Stack Developer** with professional industry experience, currently 
 
 <div align="center">
   
-  ![Sushil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushils-Coding&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushils-Coding&theme=radical&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushils-Coding&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
 
 </div>
 
