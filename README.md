@@ -84,10 +84,11 @@ I'm a **Full-Stack Developer** with professional industry experience, currently 
 
 ## Contribution
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Sushils-Coding/Sushils-Coding/output/assets/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Sushils-Coding/Sushils-Coding/output/assets/github-snake-dark.svg#gh-dark-mode-only)
-
-*(Animation updates daily)*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sushils-Coding/Sushils-Coding/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sushils-Coding/Sushils-Coding/output/snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sushils-Coding/Sushils-Coding/output/snake.svg">
+</picture>
 
 ---
 
