@@ -1,14 +1,12 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 24 hours at 00:00 UTC
   schedule:
-    - cron: "0 0 * * *"  # Changed to daily at midnight
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
   
-  # Allows manual triggering
   workflow_dispatch:
   
-  # Run on every push to main/master branch
   push:
     branches:
       - main
@@ -16,32 +14,25 @@ on:
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
-      # Checkout repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      
-      # Generate snake animation
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
-            assets/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      
-      # Deploy to output branch
-      - name: Deploy to GitHub Pages Branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./assets
           publish_branch: output
-          keep_files: false
+          keep_files: true
           commit_message: "Update snake animation - $(date)"
